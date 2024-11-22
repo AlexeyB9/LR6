@@ -1,34 +1,34 @@
 # LR6
 ## Лабораторная работа №6
 ### 1) Добавляем файл с помощью интерфейса GitHub:
-![screen1](C:\Users\Алексей Евгеньевич\Desktop\ГУАП\Inf\ОП\proba\LR6\photo\image.png)
+![screenshot](photo/image-1.png)
 
 **после чего подтянем его в локальный репозиторий:**
 
-![alt text](image-2.png)
+![alt text](photo/image-2.png)
 ### 2) Просмотрим историю изменений:
-![alt text](image-3.png)
+![alt text](photo/image-3.png)
 ### 3) Посмотрим ветки:
-![alt text](image-4.png)
+![alt text](photo/image-4.png)
 ### 4) Производим слияние веток:
-![alt text](image-5.png)
+![alt text](photo/image-5.png)
 ### 5) Устраняем конфликт и удаляем ветку:
-![alt text](image-6.png)
+![alt text](photo/image-6.png)
 ### 6) Изменяем файл:
-![alt text](image-7.png)
+![alt text](photo/image-7.png)
 
 **Делаем коммит:**
 
-![alt text](image-8.png)
+![alt text](photo/image-8.png)
 ### 7) Откатываем коммит:
-![alt text](image-9.png)
+![alt text](photo/image-9.png)
 
 **откатываем также и файл:**
 
-![alt text](image-10.png)
+![alt text](photo/image-10.png)
 
 ### 8) Переходим к оформлению README для этого создаю папку которая будет хранить фото работы и сохраняю изменения:
-![alt text](image-12.png)
+![alt text](photo/image-12.png)
 
 ## Лог команд:
 ```
@@ -50,6 +50,6 @@ git checkout -- file.txt (откат файла на 1 версию назад)
 mkdir photo (создание директории)
 ```
 ## История операций в отформатированном виде:
-![alt text](image-13.png)
+![alt text](photo/image-13.png)
 ## Демонстрация оформления отчёта в README
-![alt text](image-14.png)
+![alt text](photo/image-14.png)
